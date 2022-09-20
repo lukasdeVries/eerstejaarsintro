@@ -33,6 +33,7 @@ header .wrapper{
 }
 .nameAndYear, h1, h3{
     color: #FFCC00;
+    font-size: 3vw;
 }
 /* -------------------main---------------------- */
 main .wrapper{
@@ -74,6 +75,8 @@ main .wrapper{
     border: 1px solid black;
     border-radius: 8px;
     margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
 }
 .story h2{
     padding-bottom: 15px;
