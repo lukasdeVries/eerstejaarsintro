@@ -28,7 +28,9 @@
                 </div>
                 <div class="class">
                     <img src="img/pra.jpeg" alt="pra">
-                    <p>In de web lessen leer je alles over hoe je een website kan maken en vormgeven. In je eerste jaar ga je veel bezig zijn met css en html om basis sites te maken. 
+                    <p>In de pra lessen ga je veel in groepen werken. Tijdens de lessen web en native leer je steeds nieuwe technieken, deze ga je dan in groepsopdrachten maken die je over een aantal weken afrondt. 
+                        Tijdens het maken van de opdrachten pas je ook je kennis toe die je opdoet bij de prolessen 
+ 
                     </p>
                 </div>
                 <div class="class">
@@ -78,7 +80,16 @@
             </div><!--classStorys-->
         </div><!--wrapper-->
         <div class="scheduleBanner">
-            <img src="img/rooster.png" alt="rooster">
+            <img src="img/rooster.png" class="rooster">
         </div><!--scheduleBanner-->
+        <div class="genericClasses">
+            <div class="wrapper">
+                <div class="genericContent">
+                    <h1>Generieke vakken</h1>
+                    <p>voordat ik aan deze opleiding begon heb ik een andere mbo-opleiding gedaan, daar heb ik mijn examens voor Nederlands, Engels en rekenen behaald. Aan het begin van mijn eerste jaar heb ik dit doorgegeven aan mijn mentor en met haar hulp vrijstelling kunnen krijgen voor die vakken. </p>
+                </div><!--genericContent-->
+
+            </div><!--wrapper-->
+        </div><!--genericClasses-->
     </main>
     </body>
