@@ -34,6 +34,8 @@ header .wrapper{
 .nameAndYear, h1, h3{
     color: #FFCC00;
     font-size: 3vw;
+    font-family: Arial, Helvetica, sans-serif;
+
 }
 /* -------------------main---------------------- */
 main .wrapper{
@@ -49,6 +51,12 @@ main .wrapper{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
     padding-top: 30px;
+}
+.boxTitle{
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+    font-size: 3vh;
 }
 .class{
     border: 1px solid black;
@@ -90,6 +98,12 @@ main .wrapper{
 }
 .story h2{
     padding-bottom: 15px;
+}
+.boxTitle2{
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3vh;
+
 }
 /* --------------------rooster---------------------------- */
 .rooster{

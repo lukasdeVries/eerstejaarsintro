@@ -24,10 +24,12 @@
             <div class="classesBox">
                 <div class="class">
                     <img src="img/web.jpg" alt="web">
+                    <h3 class="boxTitle">Web</h3>
                     <p>In de web lessen leer je alles over hoe je een website kan maken en vormgeven. In je eerste jaar ga je veel bezig zijn met css en html om basis sites te maken.</p>
                 </div>
                 <div class="class">
                     <img src="img/pra.jpeg" alt="pra">
+                    <h3 class="boxTitle">pra</h3>
                     <p>In de pra lessen ga je veel in groepen werken. Tijdens de lessen web en native leer je steeds nieuwe technieken, deze ga je dan in groepsopdrachten maken die je over een aantal weken afrondt. 
                         Tijdens het maken van de opdrachten pas je ook je kennis toe die je opdoet bij de prolessen 
  
@@ -35,16 +37,18 @@
                 </div>
                 <div class="class">
                     <img src="img/pro.jpg" alt="pro">
+                    <h3 class="boxTitle">Pro</h3>
                     <p>In de pro lessen leer je alles over hoe je programeer projecten aan kunt pakken en ontwikkelen. Denk hierbij bijvoorbeeld aan hoe je een basis ontwerp maakt, hoe je effectief een taakverdeling maakt of hoe je de functionaliteit van een programma makkelijk op een rijtje zet. </p>
                 </div>
                 <div class="class">
                     <img src="img/native.webp" alt="native">
+                    <h3 class="boxTitle">Native</h3>
                     <p>Met native lessen ga je leren over programmeren in talen zoals python en c#. Tijdens deze lessen leer je logica toe te passen in code en hoe je dit moet toepassen.</p>
                 </div>
             </div><!--classboxes-->
             <div class="classStorys">
                 <div class="story">
-                    <h2>roosters</h2>
+                    <h2 class="boxTitle2">roosters</h2>
                     <p>Je rooster veranderd ongeveer om de 8 weken. Van de drie
                         hoofdvakken (native, web en pra) heb je meestal 2 lessen van 2uur
                         verspreid over de week. Als er weinig lessen op een dag zijn is
@@ -54,7 +58,7 @@
                         huidige rooster. </p>
                 </div>
                 <div class="story">
-                    <h2>blokken</h2>
+                    <h2 class="boxTitle2">blokken</h2>
                     <p>Een schooljaar is verdeeld in twee blokken, in het eerste blok leg
                         je een hoop van de basis en wordt er gekeken naar hoe je de stof
                         oppakt en of je mogelijk kan versnellen. In het tweede blok kan
@@ -65,7 +69,7 @@
                         meer aandacht aan moet geven.</p>
                 </div>
                 <div class="story">
-                    <h2>Versnellen</h2>
+                    <h2 class="boxTitle2">Versnellen</h2>
                     <p>Als je in het eerste blok meer dan 90% van al je leerdoelen bereikt
                         kan je ervoor kiezen om te versnellen. Het verschil tussen het
                         versnelde traject en het gewone is dat je vanaf het tweede blok
